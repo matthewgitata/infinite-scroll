@@ -72,7 +72,7 @@ window.addEventListener("scroll", () => {
     ready
   ) {
     ready = false;
-    displayPhotos();
+    getPhotos();
   }
 });
 
